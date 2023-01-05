@@ -1,0 +1,12 @@
+print("Enter the first number")
+num1 = int(input())
+print("Enter the second number")
+num2 = int(input())
+
+print("Addition of number is ",num1+num2)
+print("Subtraction of number is ",num1-num2)
+print("Division of number is ",num1/num2)
+print("Multipilcation of number is ",num1*num2)
+print("Exponential of number is ",num1**num2)
+print("Modulus of number is ",num1%num2)
+print("Floor division of number is ", num1 // num2)
