@@ -1,8 +1,3 @@
-# Q.1 Write a program to compute the wage of daily labour as per the following rules:
-# a) For first 4 hrs. Rs 30/- per hr
-# b) For next 4 hrs. Rs 40/- per hr
-# c) For next 2 hrs. beyond 8 hrs. Rs 50/- per hr extra
-# d) For rest Rs 60/- per hr extra
 
 # Q.2 Create a list variable L and ask the user to input 10 integer elements into the list. Write Python code to perform below given operations on the list (Do not use built-in list functions):
 # a) Create a new list L1 by adding a number 10 to every element in the list L using list comprehension. Say L contains 5,15,25 then L1 contains 15,25,35
