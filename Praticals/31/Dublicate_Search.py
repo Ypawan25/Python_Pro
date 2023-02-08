@@ -16,3 +16,11 @@ else:
    list.append(num)
    print("List after adding the number")
    print(list)
+if(len(s)==len(list)):
+  print("List has no dublicates")
+else:
+  print("List has dublicate \n")
+  print("List after removing dublicates is \n")
+  for i in s:
+    l.append(i)
+print(l)  
